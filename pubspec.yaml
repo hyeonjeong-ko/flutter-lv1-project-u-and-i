@@ -61,7 +61,7 @@ flutter:
     - asset/img/
 
   fonts:
-    - family: parisienne
+    - family: parisienne # flutter에서 부를 이름
       fonts:
         - asset: asset/font/Parisienne-Regular.ttf
 
@@ -72,7 +72,6 @@ flutter:
           weight: 500
         - asset: asset/font/Sunflower-Bold.ttf
           weight: 700
-
 
   # To add assets to your application, add an assets section, like this:
   # assets:
